@@ -1,0 +1,37 @@
+.container {
+    width: 80%;
+    background-color: #f67ea6;
+    margin: auto;
+    border: 5px solid #fd83ac;
+  border-radius: 10px;
+  padding: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.block{
+    width: 200px;
+    height: 270px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 1px 5px 8px #000000;
+}
+img {
+    width: 200px;
+}
+.container_inner {
+    display: flex;
+    height: 400px;
+    width: 980px;
+    background-color: rgb(#FF9ABC);
+    margin: auto;
+    justify-content: space-evenly;
+}
+.container h1 {
+    margin left: 10px;
+    margin: top 12px;
+}
+.block a {
+    text-decoration: none;
+}
+a {
+    color: black;
+}
