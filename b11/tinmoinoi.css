@@ -1,0 +1,49 @@
+
+.container{
+    width: 48%;
+    float: left;
+}
+.container0{
+    width: 50%;
+    float: right;
+    margin: 5px;
+}
+.container3{
+    width:700px;
+    margin: auto;
+    font-family: 'Segoe UI';
+}
+.container1 {
+    width:700px;
+    margin: auto;
+    font-family: 'Segoe UI';
+    
+}
+.h1{
+    background-color: rgb(155, 155, 155);
+    color: red;
+    font-family: 'Segoe UI';
+}
+
+
+.img {
+    width: 280px;
+    height: auto;
+    border: 1px solid rgb(192, 192, 192);
+    padding: 3px;
+    float: left;
+    margin: 7px;
+    margin-top: 80px;
+  }
+h2{
+  color: rgb(255, 136, 8);
+  font-family: 'Segoe UI';
+}
+ul{
+  list-style-image: url('dico_arrow.gif');
+
+}
+.p{
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
